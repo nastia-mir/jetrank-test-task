@@ -10,13 +10,13 @@ def get_results(search_term, num_top_results):
     url = base_url + search_term + "&num=" + str(num_top_results)
 
     page = requests.get(url)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.text, 'html.parser')
 
     result_divs = soup.find_all("div", attrs={"class": "Gx5Zad fP1Qef xpd EtOod pkphOe"})
     result_data = {"Data": []}
     position = 0
     for div in result_divs:
-        print(div.prettify())
+        # print(div.prettify())
         website_info = {}
         position += 1
         website_info['position'] = position
@@ -44,7 +44,7 @@ def get_results(search_term, num_top_results):
 
 
 if __name__ == "__main__":
-    search_term = "dsa practice questions"
-    num_top_results = 10
+    search_term = input("Enter search term: ")
+    num_top_results = int(input("Enter number of results: "))
     results = get_results(search_term, num_top_results)
     print(json.dumps(results, indent=4))
