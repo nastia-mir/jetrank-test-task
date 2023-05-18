@@ -14,7 +14,7 @@ def get_results(search_term, num_top_results):
 
     result_divs = soup.find_all("div", attrs={"class": "Gx5Zad fP1Qef xpd EtOod pkphOe"})
     position = 0
-    with open('result.json', 'w', encoding='utf-8') as file:
+    with open(f'result_{search_term}_{num_top_results}.json', 'w', encoding='utf-8') as file:
         for div in result_divs:
             # print(div.prettify())
             website_info = {}

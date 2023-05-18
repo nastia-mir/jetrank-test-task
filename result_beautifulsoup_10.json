@@ -1,0 +1,46 @@
+{
+    "position": 1,
+    "title": "Beautiful Soup 4.12.0 documentation - Crummy",
+    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+    "description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, ...Of /software/BeautifulSoup/bs4... · Python Module Index · Table of Contents"
+}{
+    "position": 2,
+    "title": "Beautiful Soup на русском языке - Crummy",
+    "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc.ru/",
+    "description": "index · next |; Beautiful Soup 4.9.0 documentation » ..."
+}{
+    "position": 3,
+    "title": "beautifulsoup4 · PyPI",
+    "url": "https://pypi.org/project/beautifulsoup4/",
+    "description": "Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for ..."
+}{
+    "position": 4,
+    "title": "Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation",
+    "url": "https://beautiful-soup-4.readthedocs.io/en/latest/",
+    "description": "Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, ..."
+}{
+    "position": 5,
+    "title": "Облегчаем себе жизнь с помощью BeautifulSoup4 - Habr",
+    "url": "https://habr.com/ru/articles/544828/",
+    "description": "from bs4 import BeautifulSoup import requests. Для начала сохраним наш URL в переменную: url = 'http://mignews.com/mobile' Теперь отправим GET()-запрос на ..."
+}{
+    "position": 6,
+    "title": "Beautiful Soup - Вікіпедія",
+    "url": "https://uk.wikipedia.org/wiki/Beautiful_Soup",
+    "description": "Beautiful Soup — це модуль Python для аналізу HTML і XML документів. Він створює дерево аналізу для розібраних сторінок, яке можна використовувати для ..."
+}{
+    "position": 7,
+    "title": "Библиотека BeautifulSoup4 для Python, парсинг сайтов с BS4",
+    "url": "https://dvmn.org/encyclopedia/modules/bs4-tutorial/",
+    "description": "Для работы с библиотекой BeautifulSoup нужно сделать из этой строки HTML-суп: from bs4 import BeautifulSoup soup = BeautifulSoup(response.text, ..."
+}{
+    "position": 8,
+    "title": "Модуль BeautifulSoup4 в Python, разбор HTML.",
+    "url": "https://docs-python.ru/packages/paket-beautifulsoup4-python/",
+    "description": "from bs4 import BeautifulSoup # передаем объект открытого файла with open(\"index.html\") as fp: soup = BeautifulSoup(fp, 'html.parser') # передаем строку ..."
+}{
+    "position": 9,
+    "title": "Парсинг на Python с Beautiful Soup - PythonRu",
+    "url": "https://pythonru.com/biblioteki/parsing-na-python-s-beautiful-soup",
+    "description": "В этом материале используем библиотеки Beautiful Soup, Ixml и Requests. ... scraper.py import requests from bs4 import BeautifulSoup url ..."
+}
