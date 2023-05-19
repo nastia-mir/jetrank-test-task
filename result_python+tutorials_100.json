@@ -1,0 +1,602 @@
+{
+    "res1": {
+        "position": 1,
+        "title": "The Python Tutorial — Python 3.11.3 documentation",
+        "url": "https://docs.python.org/3/tutorial/",
+        "description": "Python is an easy to learn, powerful programming language. ... This tutorial introduces the reader informally to the basic concepts and features of the ...2. Using the Python Interpreter · 1. Whetting Your Appetite · 5. Data Structures"
+    },
+    "res2": {
+        "position": 2,
+        "title": "Python Tutorial",
+        "url": "https://www.pythontutorial.net/",
+        "description": "This Python Tutorial helps you learn Python programming from scratch. If you want to master Python fast, this tutorial is a good start."
+    },
+    "res3": {
+        "position": 3,
+        "title": "Python Tutorial - W3Schools",
+        "url": "https://www.w3schools.com/python/",
+        "description": "This tutorial supplements all explanations with clarifying examples. See All Python Examples. Python Quiz. Test your Python skills with a quiz. Python Quiz. My ...Python Introduction · Python Lists · Python Strings · Python Variables"
+    },
+    "res4": {
+        "position": 4,
+        "title": "Real Python: Python Tutorials",
+        "url": "https://realpython.com/",
+        "description": "Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more."
+    },
+    "res5": {
+        "position": 5,
+        "title": "Python Tutorial - Tutorialspoint",
+        "url": "https://www.tutorialspoint.com/python/index.htm",
+        "description": "This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language."
+    },
+    "res6": {
+        "position": 6,
+        "title": "Learn Python - Free Interactive Python Tutorial",
+        "url": "https://www.learnpython.org/",
+        "description": "DataCamp offers online interactive Python Tutorials for Data Science. Join 575,000 other learners and get started learning Python for data science today!"
+    },
+    "res7": {
+        "position": 7,
+        "title": "Learn Python Programming - Programiz",
+        "url": "https://www.programiz.com/python-programming",
+        "description": "Python is a powerful general-purpose programming language. Our Python tutorial will guide you to learn Python one step at a time with the help of examples."
+    },
+    "res8": {
+        "position": 8,
+        "title": "Python for Beginners – Full Course [Programming Tutorial] - YouTube",
+        "url": "https://www.youtube.com/watch%3Fv%3DeWRfhZUzrAc",
+        "description": "9 серп. 2022 р. · 1M views 9 months ago Python Tutorials. Learn the Python programming language in this full ...Тривалість: 4:40:00Опубліковано: 9 серп. 2022 р."
+    },
+    "res9": {
+        "position": 9,
+        "title": "Python Tutorial - Python Full Course for Beginners - YouTube",
+        "url": "https://www.youtube.com/watch%3Fv%3D_uQrJ0TkZlc",
+        "description": "18 лют. 2019 р. · Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes ...Тривалість: 6:14:07Опубліковано: 18 лют. 2019 р."
+    },
+    "res10": {
+        "position": 10,
+        "title": "Learn Python Tutorial | Python Programming Language - Javatpoint",
+        "url": "https://www.javatpoint.com/python-tutorial",
+        "description": "Our Python tutorial is designed for beginners and professionals. Python is a simple, general purpose, high level, and object-oriented programming language."
+    },
+    "res11": {
+        "position": 11,
+        "title": "Python Tutorial | Learn Python Programming - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/python-programming-language/",
+        "description": "24 квіт. 2023 р. · This Python Tutorial is very well suited for Beginners, and also for experienced programmers with other programming languages like C++ and ..."
+    },
+    "res12": {
+        "position": 12,
+        "title": "Learn Python Programming From Scratch - Complete 2023 Guide",
+        "url": "https://www.geeksforgeeks.org/python-programming-language/learn-python-tutorial/",
+        "description": "3 квіт. 2023 р. · Tutorials. DSA. Jobs. Corporate Hiring Solutions · Apply through Jobathon · Apply for a Job. Practice. All DSA Problems · Problem of the Day ..."
+    },
+    "res13": {
+        "position": 13,
+        "title": "Learn Python Tutorials - Kaggle",
+        "url": "https://www.kaggle.com/learn/python",
+        "description": "Python. Learn the most important language for data science. 5 hours to go. Begin Course. Course. Discussion. Lessons. 1. Hello, Python."
+    },
+    "res14": {
+        "position": 14,
+        "title": "Python Tutorials: Learn Python Step-by-Step - TutorialsTeacher",
+        "url": "https://www.tutorialsteacher.com/python",
+        "description": "Python is a general purpose, open-sourced, high level programming language. Learn Python step by step with easy and practical examples."
+    },
+    "res15": {
+        "position": 15,
+        "title": "Python Tutorial for Beginners: Learn Programming Basics [PDF]",
+        "url": "https://www.guru99.com/python-tutorials.html",
+        "description": "25 квіт. 2023 р. · This Python programming tutorial helps you to learn Python free with Python notes and Python tutorial PDF. These Python tutorials will help you ..."
+    },
+    "res16": {
+        "position": 16,
+        "title": "Learn Python: Tutorials for Beginners, Intermediate, and Advanced ...",
+        "url": "https://stackify.com/learn-python-tutorials/",
+        "description": "Find the best Python tutorials to learn and polish your coding skills in Python. These tutorials are suited for both beginners & advanced programmers."
+    },
+    "res17": {
+        "position": 17,
+        "title": "Python Tutorials | Learn, Build, & Practice Python Programming",
+        "url": "https://www.datacamp.com/tutorial/category/python",
+        "description": "Python Tutorial. Keep up to date with the latest news, techniques, and resources for Python programming. Our tutorials are full of practical walk throughs & use ..."
+    },
+    "res18": {
+        "position": 18,
+        "title": "Python Programming Tutorials",
+        "url": "https://pythonprogramming.net/",
+        "description": "Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free."
+    },
+    "res19": {
+        "position": 19,
+        "title": "Python 3 Programming Tutorials for Beginners - Codebasics",
+        "url": "https://codebasics.io/courses/python-3-programming-tutorials-for-beginners",
+        "description": "Оцінка  4,9  (9) 6 лют. 2023 р. · Complete Python tutorial for beginners: If you are a beginner and just starting out with programming then python is probably the best place ..."
+    },
+    "res20": {
+        "position": 20,
+        "title": "Python Tutorials - Python Tutorial",
+        "url": "https://pythonspot.com/",
+        "description": "14 лют. 2016 р. · Python is a computer programming language. This is a complete Python programming tutorial (for Python 3!). Suitable for both beginner and ..."
+    },
+    "res21": {
+        "position": 21,
+        "title": "Python Tutorials // Python Tutorials",
+        "url": "https://pythontutorials.eu/",
+        "description": "Python Tutorials. Congratulations, you're about to learn Python! Python is a widely used programming language that is intuitive and easy to learn."
+    },
+    "res22": {
+        "position": 22,
+        "title": "Python Courses & Tutorials - Codecademy",
+        "url": "https://www.codecademy.com/catalog/language/python",
+        "description": "Python is a general-purpose, versatile, and powerful programming language. It's a great first language because Python code is concise and easy to read."
+    },
+    "res23": {
+        "position": 23,
+        "title": "Tutorials - Qt for Python - Qt Documentation",
+        "url": "https://doc.qt.io/qtforpython-6/tutorials/index.html",
+        "description": "Some of these documents were ported from C++ to Python and cover a range of topics, from basic use of widgets to step-by-step tutorials that show how an ..."
+    },
+    "res24": {
+        "position": 24,
+        "title": "Python Tutorials and Online Training Courses - Pluralsight",
+        "url": "https://www.pluralsight.com/browse/software-development/python",
+        "description": "Master the Python programming language with our online Python tutorials. Our expert-led courses will help you become the Python developer you want to be!"
+    },
+    "res25": {
+        "position": 25,
+        "title": "OpenCV-Python Tutorials",
+        "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
+        "description": "OpenCV-Python Tutorials. Introduction to OpenCV. Learn how to setup OpenCV-Python on your computer! Gui Features in OpenCV."
+    },
+    "res26": {
+        "position": 26,
+        "title": "Python Tutorial | Learn Python Programming - Scaler Topics",
+        "url": "https://www.scaler.com/topics/python/",
+        "description": "Basic to advanced Python tutorial for programmers. Learn Python programming with step-by-step guide along with applications and example programs by Scaler ..."
+    },
+    "res27": {
+        "position": 27,
+        "title": "Python Tutorials - PYnative",
+        "url": "https://pynative.com/python/",
+        "description": "Learn Python Programming: Python tutorials for developers of all skill levels, Python Exercises, Quizzes, code examples, articles, and more."
+    },
+    "res28": {
+        "position": 28,
+        "title": "Best Way to Learn Python in 2023 (Free and Paid Python Tutorials)",
+        "url": "https://kinsta.com/blog/python-tutorials/",
+        "description": "17 лют. 2023 р. · Explore the best ways to learn Python programming language. You'll also find the top Python tutorials to get you started."
+    },
+    "res29": {
+        "position": 29,
+        "title": "Python Courses, Training, and Tutorials | Learn Python Online Today",
+        "url": "https://www.udemy.com/topic/python/",
+        "description": "Level up your skills with a Python training course from Udemy. See why millions trust our real-world experts to help them become professional Python ..."
+    },
+    "res30": {
+        "position": 30,
+        "title": "Tutorials — MNE 1.4.0 documentation",
+        "url": "https://mne.tools/stable/auto_tutorials/index.html",
+        "description": "These tutorials cover the basics of loading EEG/MEG data into MNE-Python, and how to query, manipulate, annotate, plot, and export continuous data in the Raw ..."
+    },
+    "res31": {
+        "position": 31,
+        "title": "Python tutorials for beginners - ThePythonGuru.com",
+        "url": "https://thepythonguru.com/",
+        "description": "7 січ. 2020 р. · Beginning PythonStart from here if you are beginner. In this section you will learn everything you need to know about python, ..."
+    },
+    "res32": {
+        "position": 32,
+        "title": "Python Tutorial - Learn Python Programming - Intellipaat",
+        "url": "https://intellipaat.com/blog/tutorial/python-tutorial/",
+        "description": "19 лип. 2022 р. · A python tuple is a collection of immutable Python objects enclosed within parentheses(). Elements in a tuple could be of the same data type or ..."
+    },
+    "res33": {
+        "position": 33,
+        "title": "Python Tutorial For Beginners: Learn Python",
+        "url": "https://python.land/python-tutorial",
+        "description": "2 трав. 2023 р. · Learn to program with this free Python tutorial for beginners. It's easy to read and lets you practice with in-browser code examples."
+    },
+    "res34": {
+        "position": 34,
+        "title": "Get Started Tutorial for Python in Visual Studio Code",
+        "url": "https://code.visualstudio.com/docs/python/python-tutorial",
+        "description": "Learn how to install packages by creating Python virtual environments; Write a simple Python script to plot figures within VS Code. This tutorial is not ..."
+    },
+    "res35": {
+        "position": 35,
+        "title": "Top 10 Websites to Learn Python Programming for FREE in 2023",
+        "url": "https://medium.com/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6",
+        "description": "Hello guys, if you want to learn Python in 2023 and looking for some Free Websites and free Python tutorials then you have come to the right place."
+    },
+    "res36": {
+        "position": 36,
+        "title": "The Best Way to Learn Python – Python Programming Tutorial for ...",
+        "url": "https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/",
+        "description": "10 серп. 2021 р. · Best Python Tutorials for Beginners · Learn Python - Full Course for Beginners (freeCodeCamp) · The Python Handbook (Flavio Copes) · Python ..."
+    },
+    "res37": {
+        "position": 37,
+        "title": "AskPython - Python Tutorials for Beginners and Experienced ...",
+        "url": "https://www.askpython.com/",
+        "description": "Web scraping is one of the most trendy and valuable processes for data scientists or enthusiasts to fetch data loads. While learning or experimenting with ..."
+    },
+    "res38": {
+        "position": 38,
+        "title": "Python Tutorial: Learn Python Programming",
+        "url": "https://pythonbasics.org/",
+        "description": "This site contains materials and exercises for the Python 3 programming language. In this course you will learn how to write code, the basics and see ..."
+    },
+    "res39": {
+        "position": 39,
+        "title": "HolyPython.com | Python Exercises, Lessons & Tutorials",
+        "url": "https://holypython.com/",
+        "description": "Learn and practice Python through rich resources at HolyPython.com. You can find Python Lessons, Tutorials and Exercises as well as other useful material."
+    },
+    "res40": {
+        "position": 40,
+        "title": "Python Tutorial - DigitalOcean",
+        "url": "https://www.digitalocean.com/community/tutorials/python-tutorial",
+        "description": "3 серп. 2022 р. · Python Tutorial can be broadly divided into the following categories. Python Basics - syntax, data types, variables, loops, functions, numbers, ..."
+    },
+    "res41": {
+        "position": 41,
+        "title": "How to Use Jupyter Notebook: A Beginner's Tutorial - Dataquest",
+        "url": "https://www.dataquest.io/blog/jupyter-notebook-tutorial/",
+        "description": "24 серп. 2020 р. · In fact, most of our programming tutorials and even our Python courses were created using Jupyter Notebooks). Example Data Analysis in a Jupyter ..."
+    },
+    "res42": {
+        "position": 42,
+        "title": "Best Python Tutorials - Learn by Examples - ListenData",
+        "url": "https://www.listendata.com/p/best-python-tutorials-learn-by-examples.html",
+        "description": "In this section we will cover the tutorials which will help you to learn Python from scratch through examples. You can follow these tutorials even if you ..."
+    },
+    "res43": {
+        "position": 43,
+        "title": "RabbitMQ tutorial - \"Hello world!\"",
+        "url": "https://www.rabbitmq.com/tutorials/tutorial-one-python.html",
+        "description": "(using the Pika Python client). In this part of the tutorial we'll write two small programs in Python; a producer (sender) that sends a single message, and ..."
+    },
+    "res44": {
+        "position": 44,
+        "title": "Python Tutorials for Atmospheric and Geophysical Sciences",
+        "url": "https://sage.nelson.wisc.edu/data-and-models/python-tutorials/",
+        "description": "These tutorials are designed to help researchers, including undergraduate and graduate students, with no or minimal prior coding experience."
+    },
+    "res45": {
+        "position": 45,
+        "title": "Learn Python: Tutorials from Beginner to Expert - CodeSolid.com",
+        "url": "https://codesolid.com/learn-python/",
+        "description": "Python, currently the most popular programming language, is a free, ... Tools and First Steps for Writing Python Code; Python Beginner Tutorials and ..."
+    },
+    "res46": {
+        "position": 46,
+        "title": "Google's Python Class | Python Education - Google for Developers",
+        "url": "https://developers.google.com/edu/python",
+        "description": "Recommended for you. Python Introduction. Welcome to Google's Python online tutorial. It is based ..."
+    },
+    "res47": {
+        "position": 47,
+        "title": "Python Tutorials — Apache MXNet documentation",
+        "url": "https://mxnet.apache.org/api/python/docs/tutorials/",
+        "description": "How to use the NDArray API to manipulate data. A useful set of tutorials for beginners. Symbol API ..."
+    },
+    "res48": {
+        "position": 48,
+        "title": "Python Tutorial - Learn Python Programming with examples",
+        "url": "https://www.knowledgehut.com/tutorials/python-tutorial",
+        "description": "Python Tutorial. Covers 34 chapters with basic to advanced concepts of Python. KnowledgeHut Created by; 9140 Views; 5 (228 ratings); 11 Comments ..."
+    },
+    "res49": {
+        "position": 49,
+        "title": "Python Tutorial - Mode Analytics",
+        "url": "https://mode.com/python-tutorial/",
+        "description": "Python is an extremely versatile programming language. This plain English tutorial for business analysis covers the basics you need to get real work done."
+    },
+    "res50": {
+        "position": 50,
+        "title": "Python Tutorials - IBM Developer",
+        "url": "https://developer.ibm.com/languages/python/tutorials/",
+        "description": "Python Tutorials. Complete set of steps including sample code that are focused on specific tasks. Tutorials provide step-by-step instructions that a ..."
+    },
+    "res51": {
+        "position": 51,
+        "title": "Python Courses and Tutorials: Online and On Site",
+        "url": "https://python-course.eu/",
+        "description": "Free comprehensive online tutorials suitable for self-study. An online course full of hands-on exercises and solutions."
+    },
+    "res52": {
+        "position": 52,
+        "title": "Python Tutorials For Beginners and Professionals - Dot Net Tutorials",
+        "url": "https://dotnettutorials.net/course/python-tutorials/",
+        "description": "1 вер. 2022 р. · This Python Tutorial is designed for students, beginners as well as professional developers who want to learn Python step by step from the very ..."
+    },
+    "res53": {
+        "position": 53,
+        "title": "Python Tutorials - Data to Fish",
+        "url": "https://datatofish.com/python-tutorials/",
+        "description": "Python Tutorials · Machine Learning · Pandas · Databases & SQL · GUI – tkinter · System, Installations and Upgrades · Matplotlib · Other."
+    },
+    "res54": {
+        "position": 54,
+        "title": "Learn Python - Best Python Tutorials (2023) - gitconnected",
+        "url": "https://gitconnected.com/learn/python",
+        "description": "The top 100 Python tutorials - learn Python for free. Courses are submitted and voted on by developers, enabling you to find the best Python courses and ..."
+    },
+    "res55": {
+        "position": 55,
+        "title": "A Complete Python Tutorial to Learn Data Science from Scratch",
+        "url": "https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/",
+        "description": "14 січ. 2016 р. · This Python tutorial focuses on the basic concepts of Python for data analysis. Learn Python to expand your knowledge and skill set for data ..."
+    },
+    "res56": {
+        "position": 56,
+        "title": "Python Tutorials - Free Guide Step-by-Step - eduCBA",
+        "url": "https://www.educba.com/software-development/software-development-tutorials/python-tutorial/",
+        "description": "Free Python Tutorials guides to learn important Python programming concepts at your own pace. This article will teach you the best Python programming."
+    },
+    "res57": {
+        "position": 57,
+        "title": "Python Code - Python Programming Tutorials and Recipes",
+        "url": "https://www.thepythoncode.com/",
+        "description": "Python programming tutorials and recipes on wide variety of topics, all tutorials are free."
+    },
+    "res58": {
+        "position": 58,
+        "title": "Processing.py Tutorials",
+        "url": "https://py.processing.org/tutorials/",
+        "description": "Python Mode for Processing extends the Processing Development Environment with the Python programming language."
+    },
+    "res59": {
+        "position": 59,
+        "title": "Python Tutorials | 365 Data Science",
+        "url": "https://365datascience.com/tutorials/python-tutorials/",
+        "description": "Our Python tutorials are perfect for beginners who want to develop sought-after coding skills to impress employers. Learn the basics of Python programming ..."
+    },
+    "res60": {
+        "position": 60,
+        "title": "Python Tutorial - Free Course for Beginners to Learn ... - Jobtensor",
+        "url": "https://jobtensor.com/Tutorial/Python/en/Introduction",
+        "description": "Get into Python. Get started learning Python with our Python Tutorial. This tool is intended for everyone who wants to learn Python programming language, ..."
+    },
+    "res61": {
+        "position": 61,
+        "title": "Python Tutorials for Code by Envato Tuts+",
+        "url": "https://code.tutsplus.com/categories/python",
+        "description": "Browse the latest Python Code Tutorials by Envato Tuts+ - all online and free! What are you learning today?"
+    },
+    "res62": {
+        "position": 62,
+        "title": "Python tutorials - SQL machine learning - Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/sql/machine-learning/tutorials/python-tutorials",
+        "description": "28 лют. 2023 р. · This article describes Python tutorials for SQL machine learning. Learn how to run scripts and build machine learning models."
+    },
+    "res63": {
+        "position": 63,
+        "title": "Introduction to Python - Training | Microsoft Learn",
+        "url": "https://learn.microsoft.com/en-us/training/modules/intro-to-python/",
+        "description": "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app."
+    },
+    "res64": {
+        "position": 64,
+        "title": "Python Online Training Courses | LinkedIn Learning, formerly Lynda ...",
+        "url": "https://www.linkedin.com/learning/topics/python",
+        "description": "Get up and running with object-oriented programming by watching our Python tutorials. Expert-taught videos on this open-source software explain how to write ..."
+    },
+    "res65": {
+        "position": 65,
+        "title": "Learning Python - The Hitchhiker's Guide to Python",
+        "url": "https://docs.python-guide.org/intro/learning/",
+        "description": "Real Python is a repository of free and in-depth Python tutorials created by a diverse team ... pythonbasics.org is an introductory tutorial for beginners."
+    },
+    "res66": {
+        "position": 66,
+        "title": "Tech With Tim Python Programming Tutorials - techwithtim.net",
+        "url": "https://www.techwithtim.net/tutorials/python-programming/",
+        "description": "Tech with tim python tutorials and guides. This page consists of many different python programming tutorials covering beginner and advanced topics."
+    },
+    "res67": {
+        "position": 67,
+        "title": "Python | Tutorials, APIs, SDKs, Docs | AWS Developer Center",
+        "url": "https://aws.amazon.com/developer/language/python/",
+        "description": "Regardless, if your favorite programming language is Python, then get started here with 10-minute tutorials, technical blog posts, and resources for ..."
+    },
+    "res68": {
+        "position": 68,
+        "title": "python-tutorial · GitHub Topics",
+        "url": "https://github.com/topics/python-tutorial",
+        "description": "Repository to store sample python programs for python learning. python python-tutorials jupyter numpy ... A Python 3 programming tutorial for beginners."
+    },
+    "res69": {
+        "position": 69,
+        "title": "Python Tutorial for Beginners [Updated 2023] - Simplilearn",
+        "url": "https://www.simplilearn.com/tutorials/python-tutorial",
+        "description": "28 квіт. 2023 р. · This Python tutorial helps you to learn the basics of python programming language, OOPs concepts, python regex, objects, and classes in ..."
+    },
+    "res70": {
+        "position": 70,
+        "title": "Tutorial - Learn Python in 10 minutes - Stavros' Stuff",
+        "url": "https://www.stavros.io/tutorials/python/",
+        "description": "So, you want to learn the Python programming language but can't find a concise and yet full-featured tutorial. This tutorial will attempt to teach you Python in ..."
+    },
+    "res71": {
+        "position": 71,
+        "title": "Python Tutorials — Advance Python Tutorials documentation",
+        "url": "https://pythonguide.readthedocs.io/en/latest/",
+        "description": "Python Tutorials¶. Contents: 1. Python review · 1.1. Introduction · 1.2. Download and Installation · 1.3. Basics · 1.3.1. Run code from Python shell (>>> ..."
+    },
+    "res72": {
+        "position": 72,
+        "title": "Python Tutorial - Studytonight",
+        "url": "https://www.studytonight.com/python/",
+        "description": "Learn Python using this Python Tutorial for beginners to start learning Python programming language and to improve coding skills in python."
+    },
+    "res73": {
+        "position": 73,
+        "title": "PythonForBeginners.com: Learn Python By Example",
+        "url": "https://www.pythonforbeginners.com/",
+        "description": "PythonForBeginners.com offers free content for those looking to learn the Python programming language. We offer the above Python Tutorial with over 4000 ..."
+    },
+    "res74": {
+        "position": 74,
+        "title": "NCAR Python Tutorial",
+        "url": "https://ncar.github.io/python-tutorial/",
+        "description": "NCAR Python Tutorial. Our \"Your First\" tutorial is designed to introduce Python to scientists who already have a good deal of programming experience, ..."
+    },
+    "res75": {
+        "position": 75,
+        "title": "Python Tutorials - Facebook",
+        "url": "https://www.facebook.com/python12345/",
+        "description": "Оцінка  5,0  (6) Python Tutorials. 8847 likes. Best Online Tutorial For Learning Python Programming Language. The Website and this Completely Desig."
+    },
+    "res76": {
+        "position": 76,
+        "title": "Python Tutorial - w3resource",
+        "url": "https://www.w3resource.com/python/python-tutorial.php",
+        "description": "19 серп. 2022 р. · Features of the w3resource Python tutorials; Python Exercises, Practice and Solution. Python Program. Python programs are composed of modules ..."
+    },
+    "res77": {
+        "position": 77,
+        "title": "Python tutorial: Basics and tips for beginners - IONOS",
+        "url": "https://www.ionos.com/digitalguide/websites/web-development/python-tutorial/",
+        "description": "22 лют. 2023 р. · Learning Python programming: What you need to get started; Python for beginners: The best tutorials for new programmers."
+    },
+    "res78": {
+        "position": 78,
+        "title": "Python Pandas Tutorial: A Complete Introduction for Beginners",
+        "url": "https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/",
+        "description": "Python Pandas Tutorial: A Complete Introduction for Beginners ·!pip install pandas · import pandas as pd · data = {. 'apples': [3, 2, 0, 1], · purchases = pd."
+    },
+    "res79": {
+        "position": 79,
+        "title": "An Hour of Python: Trinket",
+        "url": "https://hourofpython.com/",
+        "description": "Free Lessons. Python with Turtles. A visual introduction to code using the Python programming language and Turtles."
+    },
+    "res80": {
+        "position": 80,
+        "title": "Python Tutorials In Hindi - LearnHindiTuts",
+        "url": "https://www.learnhindituts.com/python",
+        "description": "Python एक Object-oriented, High level programming language है, जिसका use Website building, App development, Machine learning, Data analysis, ..."
+    },
+    "res81": {
+        "position": 81,
+        "title": "Python Tutorials for Beginners (Ultimate Guide)",
+        "url": "https://www.tutorialstonight.com/python/python-tutorial",
+        "description": "Python is an interpreted high-level programming language. This python tutorial cover python topics in detail with code and examples."
+    },
+    "res82": {
+        "position": 82,
+        "title": "▷ Python Tutorial for Beginners | Learn Python 3 Programming *2023",
+        "url": "https://mindmajix.com/python-tutorial",
+        "description": "Оцінка  4,6  (18 701) In this Python Tutorial, you will learn all concepts related to Python Programming Language viz types of variables, python lists, basic operators, ..."
+    },
+    "res83": {
+        "position": 83,
+        "title": "Python Programming - Socratica",
+        "url": "https://www.socratica.com/subject/python",
+        "description": "Our Python Tutorials will help you learn Python quickly and thoroughly. We start with \"Hello World\" and then move on to data structures (sets, lists, ..."
+    },
+    "res84": {
+        "position": 84,
+        "title": "Python Tutorial | Free Python Video Tutorials | Learn Python in 3Hours",
+        "url": "https://www.besanttechnologies.com/tutorials/python-tutorial",
+        "description": "Besant Technologies supports the students by providing Python Tutorials for the job placements and job purposes. Python is the leading important course in the ..."
+    },
+    "res85": {
+        "position": 85,
+        "title": "Python Tutorial - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details%3Fid%3Dcom.codeliber.python%26hl%3Den_US",
+        "description": "Оцінка  4,9  (2 745)   · Безкоштовно  · Android24 лип. 2022 р. · Learn Python with this app for free. Learn Python with 60+ Python lessons and online compiler. This Python tutorial will teach you the basic ..."
+    },
+    "res86": {
+        "position": 86,
+        "title": "19 Best YouTube Channels to Learn Python for Beginners (In 2022)",
+        "url": "https://mikkegoes.com/youtube-channels-learn-python/",
+        "description": "I know it can feel overwhelming to find the best Python tutorial when you are new coding. There are literally hundreds of great videos on YouTube."
+    },
+    "res87": {
+        "position": 87,
+        "title": "[PDF] Python Learn Tutorial for Beginners Free Download",
+        "url": "https://www.computer-pdf.com/programming/python/802-tutorial-python-tutorial.html",
+        "description": "Download free course Python Tutorial, pdf file on 151 pages by Guido van Rossum and the Python development team.Downloads: 153020Pages: 155Description: Download free course Python Tutorial, pdf file on 151 pages by Guido van Rossum and the Python development team"
+    },
+    "res88": {
+        "position": 88,
+        "title": "Python Tutorial - Learn Free Python Programming Language",
+        "url": "https://www.fresh2refresh.com/python-tutorial/",
+        "description": "Python Tutorial - Python is a general purpose, dynamic, high level and interpreted programming languageIt supports structure oriented etc."
+    },
+    "res89": {
+        "position": 89,
+        "title": "Learn Python For Free - Interactive Tutorial - Scrimba.com",
+        "url": "https://scrimba.com/learn/python",
+        "description": "This 58-part tutorial will teach you Python through a mix between tutorials and interactive coding challenges."
+    },
+    "res90": {
+        "position": 90,
+        "title": "Learn Python: Tutorials and updates from Red Hat experts",
+        "url": "https://developers.redhat.com/topics/python",
+        "description": "Python is a popular programming language for data science, machine learning, and web development. Install Python 3 on RHEL. Updating to Python 3.9 is a ..."
+    },
+    "res91": {
+        "position": 91,
+        "title": "The 10 Best Online Python Classes of 2023 - Intelligent",
+        "url": "https://www.intelligent.com/best-online-courses/python-classes/",
+        "description": "Find the best free python online courses and tutorials. Read our course reviews to learn about pricing, curriculum, and whether or not you're the right fit ...University-level instructors: No university creditWhat we like: What we don’t like"
+    },
+    "res92": {
+        "position": 92,
+        "title": "Python Tutorials Teaser - CodeWithHarry",
+        "url": "https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-0/",
+        "description": "This Python tutorial will enhance your programming skills and help you become a pro programmer. Technology is enhancing, and human beings always try to reduce ..."
+    },
+    "res93": {
+        "position": 93,
+        "title": "Python Tutorial - PrepInsta",
+        "url": "https://prepinsta.com/python/",
+        "description": "3 бер. 2022 р. · Here is a complete tutorial for Python Programming Language, studying from here will help you in ;earning all the topics fof python that are ..."
+    },
+    "res94": {
+        "position": 94,
+        "title": "Python Tutorial For Beginners: Hands-on FREE Python Training",
+        "url": "https://www.softwaretestinghelp.com/python/",
+        "description": "28 квіт. 2023 р. · Python Programming For Beginners – FREE Python Tutorials · #1) Explore The Usage Of Python · #2) Choose A Learning Environment · #3) Learn The ..."
+    },
+    "res95": {
+        "position": 95,
+        "title": "Hands-on Python 3 Tutorial - Dr. Andrew Harrington",
+        "url": "https://anh.cs.luc.edu/handsonPythonTutorial/",
+        "description": "Hands-on Python 3 Tutorial¶. Dr. Andrew N. Harrington. Computer Science Department, Loyola University Chicago. © Released under the Creative Commons ..."
+    },
+    "res96": {
+        "position": 96,
+        "title": "The 28 Best Places to Learn Python Online - Boot.dev Blog",
+        "url": "https://blog.boot.dev/python/best-places-to-learn-python-online/",
+        "description": "28 квіт. 2023 р. · Sentdex - Python programming tutorials that cover a wide range of topics including data analysis, machine learning, and web development."
+    },
+    "res97": {
+        "position": 97,
+        "title": "Free Python Tutorials - DEV Community",
+        "url": "https://dev.to/bowmanjd/free-tutorials-for-learning-python-cdo",
+        "description": "12 лист. 2020 р. · Books are great. Sometimes, though, I want something less heavy and more casual. Such as a tutorial.... Tagged with python, programming."
+    },
+    "res98": {
+        "position": 98,
+        "title": "Learn Python Programming | Python Tutorials For Beginners",
+        "url": "https://www.faceprep.in/python/python-programming/",
+        "description": "11 бер. 2020 р. · Our Learn Python programming is a comprehensive collection of easy to grasp tutorials for beginners in Python. If you want to learn Python to be ..."
+    },
+    "res99": {
+        "position": 99,
+        "title": "Introduction to Python – Learn Python Programming - DataFlair",
+        "url": "https://data-flair.training/blogs/python-introduction/",
+        "description": "Python introduction for beginners - Start learning python and become the ... You can learn it through https://data-flair.training/blogs/r-tutorials-home/."
+    },
+    "res100": {
+        "position": 100,
+        "title": "Python Tutorials: How to Learn Python for Beginners",
+        "url": "https://www.byjusfutureschool.com/blog/python-tutorials-how-to-learn-python-for-beginners/",
+        "description": "4 жовт. 2021 р. · Python Tutorials: How to Learn Python for Beginners ... Python is a widely-used programming language that professionals in the coding world use in ..."
+    }
+}
